@@ -1,0 +1,9 @@
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\bin\Debug\VPNHelper.exe.config
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\bin\Debug\VPNHelper.exe
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\bin\Debug\VPNHelper.pdb
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.csprojResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.Form1.resources
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.Properties.Resources.resources
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.csproj.GenerateResource.Cache
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.exe
+c:\users\zhou\documents\visual studio 2015\Projects\VPNHelper\VPNHelper\obj\Debug\VPNHelper.pdb
